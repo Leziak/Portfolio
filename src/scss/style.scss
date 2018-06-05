@@ -1,0 +1,135 @@
+* {
+    background-color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.jumbotron {
+    background-color: white;
+    opacity: 0;
+}
+
+.nav-item {
+    margin-left: 25px;
+}
+
+.cards {
+    text-align: center;
+}
+
+.card {
+    border: none;
+    margin: 0 auto;
+}
+
+.intro {
+    opacity: 0;
+}
+
+.p-2 {
+    text-align: left;
+}
+
+.bar {
+    width: 65%;
+    height: 35px;
+    border: 3px solid black;
+}
+
+.fill {
+    height: 32px;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.label {
+    width: 25%;
+    line-height: 35px;
+}
+
+.photo {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.margin {
+    margin-top: 50px;
+}
+
+
+h2 {
+    margin-bottom: 50px;
+}
+
+textarea {
+    width: 100%;
+}
+
+label, input, textarea {
+    text-align: left;
+}
+
+input, textarea {
+    border: 3px solid black;
+}
+
+button {
+    padding: 15px 40px;
+    border: 3px solid black;
+}
+
+.icon {
+    text-align: left;
+    margin-left: 50px;
+}
+
+#nav-about {
+    white-space: nowrap;
+    margin-left: 55px;
+    margin-right: 25px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    background-color: white;
+    z-index: 999999;
+}
+
+.navbar-nav {
+    width: 30%;
+}
+
+.project {
+    opacity: 0;
+}
+
+.photo {
+    position: relative;
+    right: 450px;
+    margin-left: -10px;
+}
+
+.text {
+    position: relative;
+    left: 800px;
+}
+
+
+
+
+
+
+
